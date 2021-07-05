@@ -1,1 +1,1 @@
-# fiyat-takip.py
+# fiyat-takip
